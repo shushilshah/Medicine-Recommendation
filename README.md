@@ -1,7 +1,12 @@
 Project Name: Medicine Recommendation System
+
+######################################
+
 Project Description:
 This project is about the health recommendation system based on the user or patient's symptons. The user provides occuring or facing symptoms to the system as an input. Then the system analyze that symptoms and checks that the provided
 symptons exit within the datasets or not. If yes, then the system provide necessary description about the disease like disease name, disease description, precaution of disease, medication and workout for that disease and also what diet should to follow.
+
+#######################################
 
 Project Workflow:
 
